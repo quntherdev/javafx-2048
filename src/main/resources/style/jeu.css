@@ -1,0 +1,63 @@
+#mainBorderPane{
+	//-fx-background-color: #faf8ef;
+	-fx-background-color: linear-gradient(to bottom left,#fb7ba2,#fce043);
+}
+
+#nomJeuLabel{
+	-fx-text-fill: #766e67;
+	-fx-font-size: 50px;
+	-fx-font-weight: bold;
+}
+
+
+
+#vbox_score{
+	-fx-background-color: #bbada0;
+	-fx-background-radius: 5;
+}
+
+#vbox_meilleur_score{
+	-fx-background-color: #bbada0;
+	-fx-background-radius: 5;
+}
+
+
+
+
+#recommencerButton{
+	-fx-background-color: #bbada0;
+	-fx-background-radius: 5;
+}
+
+#partagerButton{
+	-fx-background-color: #bbada0;
+	-fx-background-radius: 5;
+}
+
+
+#scoreNomLabel{
+	-fx-text-fill: #ece0d4;
+	-fx-font-weight: bold;
+	-fx-font-size: 13px;
+}
+
+#meilleurScoreNomLabel{
+	-fx-text-fill: #ece0d4;
+	-fx-font-weight: bold;
+	-fx-font-size: 13px;
+}
+
+#score_numLabel{
+	-fx-text-fill : white;
+	-fx-font-weight : bold;
+}
+
+#meilleur_score_numLabel{
+	-fx-text-fill : white;
+	-fx-font-weight : bold;
+}
+
+
+.button{
+	-fx-background-color: brown;
+}

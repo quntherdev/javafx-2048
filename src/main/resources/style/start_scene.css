@@ -1,0 +1,58 @@
+/*#grilleTailleUpButton,
+#grilleTailleDownButton{
+	-fx-font-size: 20px;
+	-fx-text-fill: black;
+  	-fx-border-color: black;
+	-fx-background-color: white;
+	-fx-font-weight: bold;
+}
+#grilleTailleUpButton:hover,
+#grilleTailleDownButton:hover{
+	-fx-background-color: black;
+	-fx-text-fill: white;
+}*/
+
+
+#grilleTailleUpButton,
+#grilleTailleDownButton{
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: linear-gradient(to bottom left,#28313b,#485461);
+}
+
+#grilleTailleUpButton:hover,
+#grilleTailleDownButton:hover{
+	-fx-text-fill: #ded6d4;
+}
+
+
+
+
+
+#commencerJeuButton,
+#meilleursScoresButton{
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: linear-gradient(to bottom left,#f78361,#f54b64);
+}
+
+#commencerJeuButton:hover,
+#meilleursScoresButton:hover{
+	-fx-text-fill: #ded6d4;
+}
+
+
+
+#mainBorderPane{
+	//-fx-background-color: #faf8ef;
+	-fx-background-color: linear-gradient(to bottom left,#fb7ba2,#fce043);
+}
+
+
+#grilleTailleLabel{
+	-fx-font-size: 25px;
+	-fx-font-weight: bold;
+	-fx-padding: 0 40 0 40;
+}

@@ -1,0 +1,18 @@
+.alert{
+	-fx-background-color: linear-gradient(to bottom left,#fb7ba2,#fce043);
+}
+
+.dialog:header *.header-panel{
+	-fx-background-color: linear-gradient(to bottom left,#fb7ba2,#fce043);
+}
+
+.button{
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+	-fx-background-color: linear-gradient(to bottom left,#f78361,#f54b64);
+}
+
+.button:hover{
+	-fx-text-fill: #ded6d4;
+}
