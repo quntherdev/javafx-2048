@@ -27,13 +27,19 @@
 
 ### Introduction and demo
 
-This project has been a great way for me to improve the MVC architecture pattern, in a fun way.
+> The goal of the game 2048 is to drag tiles on a grid, to combine tiles with the same values and create a tile with the number 2048
+
+This project has been a great way for me to improve the MVC architecture pattern in a fun way. The software is a simple 2048 game.
 You can play it in grid size 3x3, 4x4, 5x5, 6x6, 8x8.
 
 
 Parts not finished :
 - statistics (best scores...)
 - saving parties
+
+![2048-5](https://user-images.githubusercontent.com/125770500/231584606-3ba7e245-e60d-46aa-8af5-930add0fc0ab.png)
+
+![2048-4](https://user-images.githubusercontent.com/125770500/231584422-bfc23da8-d3c0-4d4e-a366-a28ba426d37f.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -43,10 +49,7 @@ Parts not finished :
 - JavaFX
 - XML
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Installation
